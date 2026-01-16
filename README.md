@@ -1,4 +1,4 @@
-# PacketCaptureAnalyzer
+# Packet Capture Analyzer
 
 Inspired by tools like Wireshark, focused on simple packet capture and basic analysis.
 
