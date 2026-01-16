@@ -37,4 +37,4 @@ Run the following commands in the terminal in order:
 2. Run the program:
 
    ```bash
-   sudo python3 PacketCaptureAnalyzer.py
+   sudo python3 packet_capture_analyzer.py
