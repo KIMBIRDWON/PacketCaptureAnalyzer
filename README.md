@@ -1,4 +1,4 @@
-# Packet Capture Analyzer
+# Packet Capture Analyzer ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 
 Inspired by tools like Wireshark, focused on simple packet capture and basic analysis.
 
