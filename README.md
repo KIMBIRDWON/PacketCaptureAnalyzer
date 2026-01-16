@@ -1,25 +1,42 @@
 # PacketCaptureAnalyzer
 
-Wireshark의 Python 버전입니다.
+Inspired by tools like Wireshark, focused on simple packet capture and basic analysis.
 
-[환경]
-- OS: Ubuntu 22.04 이상
-- Python 3, Tkinter, pip, scapy 필요
+<img
+  src="https://github.com/user-attachments/assets/b267ae55-c5ae-45af-9c1c-feb596c56f26"
+  width="650"
+/>
 
-[설치 방법]
+<img
+  src="https://github.com/user-attachments/assets/24733fba-4209-4d07-b889-14e57e1e2d69"
+  width="300"
+/>
 
-터미널에서 다음 명령을 순서대로 실행합니다.
+## Environment
 
-1) 파이썬 및 Tkinter, pip 설치
+- OS: Ubuntu 22.04 or later  
+- Requires Python 3, Tkinter, pip, and scapy  
+
+## Installation
+
+Run the following commands in the terminal in order:
+
+1. Install Python, Tkinter, and pip:
+   ```bash
    sudo apt install python3 python3-tk python3-pip
 
-2) scapy 설치
+2. Install scapy:
+   ```bash
    pip3 install scapy
 
-[실행 방법]
+## How to Run
 
-1) 소스 파일이 있는 디렉터리로 이동
-   cd 패킷_프로그램_폴더
+1. Move to the directory containing the source file:
 
-2) 프로그램 실행
+   ```bash
+   cd packet_program_folder
+
+2. Run the program:
+
+   ```bash
    sudo python3 PacketCaptureAnalyzer.py
