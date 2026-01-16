@@ -2,15 +2,13 @@
 
 Inspired by tools like Wireshark, focused on simple packet capture and basic analysis.
 
-<img
-  src="https://github.com/user-attachments/assets/b267ae55-c5ae-45af-9c1c-feb596c56f26"
-  width="650"
-/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b267ae55-c5ae-45af-9c1c-feb596c56f26" width="750">
+</p>
 
-<img
-  src="https://github.com/user-attachments/assets/24733fba-4209-4d07-b889-14e57e1e2d69"
-  width="300"
-/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/24733fba-4209-4d07-b889-14e57e1e2d69" width="350">
+</p>
 
 ## Environment
 
