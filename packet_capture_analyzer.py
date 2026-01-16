@@ -561,3 +561,4 @@ tree.pack(padx=5, pady=5, fill=tk.BOTH, expand=True)
 tree.bind("<<TreeviewSelect>>", on_packet_select)
 
 root.mainloop()
+
